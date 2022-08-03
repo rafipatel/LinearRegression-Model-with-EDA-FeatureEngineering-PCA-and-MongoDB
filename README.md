@@ -14,4 +14,4 @@ Challenge OBJECTIVES:-
 
 Several different Model Selection, Feature Engineering to increase model score can be done.
 
-Beginner Friendly for using MongoDB
+A Beginner Friendly project if never used MongoDB for data extraction
